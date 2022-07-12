@@ -1,0 +1,2 @@
+# redis
+some redis experimentation
